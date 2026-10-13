@@ -1,0 +1,7 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN",
+  "concurrency": 10,
+  "request_timeout": 15,
+  "max_retries": 3,
+  "proxy_cooldown_seconds": 0
+}
